@@ -1,0 +1,137 @@
+
+body{
+margin: 0px;
+font-family: 'Merriweather Sans', sans-serif;
+text-align: center;
+}
+h1{
+  margin-top: 50px;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  line-height: 2;
+  
+}
+.middle-contaner{
+  
+}
+.bottom-container{
+  background: #66bfbf;
+  padding-top: 50px;
+  padding-bottom: 30px;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  
+
+}
+.intro{
+  width:40%;
+  margin:10px auto 100px auto ;
+}
+.footer-link{
+  position: relative;
+  bottom: 20px;
+  color: #11999e;
+
+}
+a{
+  text-decoration: none;
+  padding: 30px;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+}
+.first-contaner{
+  background-color: #E4F9F5;
+  text-align: center;
+  padding: 60px 60px 0px 60px ;
+  position: relative;
+}
+.bottom-cloud{
+  position: absolute;
+  bottom: 300px;
+  left: 300px;
+}
+.top-cloud{
+  position: relative;
+  left: 300px;
+  top: 20px;
+
+}
+.code{
+  width: 23%;
+  border-radius: 100px;
+  float: left;
+  margin-right: 30px;
+}
+.profilelo{
+  width: 10%;
+}
+.gaming{
+  width: 23%;
+  float: right;
+  margin-left: 30px;
+  }
+.stu{
+  font-size: 2.5rem;
+  font-weight: normal;
+  
+}
+h1,h2,h3{
+  color: #63bfbf;
+}
+.co{
+  color: #119993;
+}
+a,.gm{
+  color: #11999e;
+}
+.stu{
+  
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto ;
+  text-align: left;
+  line-height: 2;
+}
+hr{
+  
+  border-style:dotted none none none;
+  color: #abb6b6;
+  width: 5%;
+  border-width: 7px;
+}
+.BUTTON {
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 5px;
+  color: #FFFFFF;
+  font-family: Arial;
+  font-size: 20px;
+  font-weight: 100;
+  padding: 10px;
+  background-color: #559494;
+  border: solid #4d8888 1px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  margin: 30px;
+  margin-bottom: 90px;
+}
+
+.BUTTON:hover {
+  background: #559494;
+  border: solid #1E3636 1px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 5px;
+  text-decoration: none;
+}
+.last{
+  color: #eaf6f6;
+}
+/*font-family: 'Merriweather Sans', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Sacramento', cursive;*/ 
